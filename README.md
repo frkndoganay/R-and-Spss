@@ -5,7 +5,7 @@ R kullanarak kirli veriyi düzeltme ve grafikleştirme, SPSS kullanarak Karar a�
 
 
 
-![image](https://github.com/frkndoganay/R-and-Spss/kararagacı.png)
+![image](https://github.com/frkndoganay/R-and-Spss/blob/main/kararagac%C4%B1.png)
 
 
 
