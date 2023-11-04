@@ -13,3 +13,6 @@ Karar ağacımızdaki sonuca göre yüksekokul ve üzeri eğitime sahip kişiler
 Gelelim 2. Seviyedeki dala. Evli veya eşi ölenlerin %64’tü, hiç evlenmeyenlerin veya boşananların ise %7’sinin bir araca sahip olduğu görülmektedir. Bu sonuçla insanların bir araç sahibi olmak için evlenmeyi beklediklerini söyleyebiliriz. Evlenmeden önce birde araba borcuyla uğraşmak istemiyor olabilirler.
 Ve şaşırtmayan bir sonucumuz daha var. Erkeklerin %26’sı kadınların ise sadece %8’inin araca sahip olması eminim şaşırtıcı bir sonuç değil.
 
+Sonuçlara göre aracı olup olmadığını %75.3 doğru karar vermiştir.
+Test verilerinin sınıflandırmasına göre otomobili olmayan 32 kişiden 9’u aracı var 23’ü ise aracı yok diye sınıflandırılmış. Otomobili olan 72 kişiden 5 kişinin aracı var 67 kişinin ise aracı yok olarak sınıflandırılmıştır.
+Sonuçlara göre aracı olup olmadığını %73.1 doğru karar vermiştir.
